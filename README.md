@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Beppino
+I'm currently attending the Upleveled full stack web development bootcamp in Vienna
+
+#### Current project
+
+#### Languages and tools
+
+
 
 <!--
 **bdefner/bdefner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
