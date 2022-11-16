@@ -18,6 +18,7 @@ I feel honored, if you want to check it out: [Frontend](https://github.com/bdefn
 <img align="left" alt="git" height="30" src="/icons/html5.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/css3.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/VSCode.png" style="margin:10px"/>
+<img align="left" alt="git" height="30" src="/icons/postgres.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/git.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/github.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/postman.png" style="margin:10px"/>
