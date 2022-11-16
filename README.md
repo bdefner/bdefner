@@ -6,20 +6,20 @@ I'm currently attending the Upleveled full stack web development bootcamp in Vie
 
 #### Languages and tools
 
-<img align="left" alt="git" height="35" src="/icons/react.png" />
-<img align="left" alt="git" height="35" src="/icons/nextjs.png" />
+<img align="left" alt="git" height="35" src="/icons/react.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/nextjs.png" style="float:left; margin:10px"/>
 <img align="left" alt="git" height="35" src="/icons/nodejs.png" />
-<img align="left" alt="git" height="35" src="/icons/JS.png" />
-<img align="left" alt="git" height="35" src="/icons/TS.png" />
-<img align="left" alt="git" height="35" src="/icons/html5.png" />
-<img align="left" alt="git" height="35" src="/icons/css3.png" />
-<img align="left" alt="git" height="35" src="/icons/VSCode.png" />
-<img align="left" alt="git" height="35" src="/icons/git.png" />
-<img align="left" alt="git" height="35" src="/icons/github.png" />
-<img align="left" alt="git" height="35" src="/icons/postman.png" />
-<img align="left" alt="git" height="35" src="/icons/figma.png" />
-<img align="left" alt="git" height="35" src="/icons/affinity.png" />
-<img align="left" alt="git" height="35" src="/icons/slack.png" />
+<img align="left" alt="git" height="35" src="/icons/JS.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/TS.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/html5.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/css3.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/VSCode.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/git.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/github.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/postman.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/figma.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/affinity.png" style="float:left; margin:10px"/>
+<img align="left" alt="git" height="35" src="/icons/slack.png" style="float:left; margin:10px"/>
 
 <!--
 **bdefner/bdefner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
