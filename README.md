@@ -21,7 +21,7 @@ I feel honored, if you want to check it out: [Frontend](https://github.com/bdefn
 <img align="left" alt="git" height="30" src="/icons/git.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/github.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/postman.png" style="margin:10px"/>
-<img align="left" alt="git" height="30" src="/icons/figma.png" style="margin:10px"/>
+<img align="left" alt="git" height="30" src="/icons/figmay.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/affinity.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/slack.png" style="margin:10px"/>
 
