@@ -27,19 +27,15 @@ I feel honored, if you want to check it out: [Frontend](https://github.com/bdefn
 
 </br>
 </br>
+</br>
 
 #### Currently learning
 
 These days, I mainly enjoy improving my react native skills and building full stack mobile apps.
 
-</br>
-</br>
+#### Let's get in touch :)
 
-#### Say hello :)
-
-Let's get in touch!
-
-hallo@deona.at
+[Email me!](mailto:hallo@deona.at)
 
 <!--
 **bdefner/bdefner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
