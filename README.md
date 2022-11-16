@@ -5,6 +5,7 @@ I'm currently attending the Upleveled full stack web development bootcamp in Vie
 
 #### Languages and tools
 
+`r fa_rocket(colour = "#1FA67A")` + `r fa_r_project(colour = "#384CB7")` = `r fa_heart(colour = "red")`
 
 
 <!--
