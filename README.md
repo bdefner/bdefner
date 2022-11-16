@@ -6,10 +6,7 @@ I'm currently attending the Upleveled full stack web development bootcamp in Vie
 
 Currently, I mainly focus on a full stack app "Tasks and Treats", build with react native, next.js, node.js and postgreSQL. It's an get-things-done tool that's fun to use :)
 
-I feel honored, if you want to check it out:
-
-[Frontend](https://github.com/bdefner/tasks-and-treats-react-native-project)
-[Backend](https://github.com/bdefner/tasks-and-treats-backend)
+I feel honored, if you want to check it out: [Frontend](https://github.com/bdefner/tasks-and-treats-react-native-project) | [Backend](https://github.com/bdefner/tasks-and-treats-backend)
 
 #### Languages and tools
 
@@ -28,9 +25,15 @@ I feel honored, if you want to check it out:
 <img align="left" alt="git" height="30" src="/icons/affinity.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/slack.png" style="margin:10px"/>
 
+</br>
+</br>
+
 #### Currently learning
 
 These days, I mainly enjoy improving my react native skills and building full stack mobile apps.
+
+</br>
+</br>
 
 #### Say hello :)
 
