@@ -4,6 +4,13 @@ I'm currently attending the Upleveled full stack web development bootcamp in Vie
 
 #### Current project
 
+Currently, I mainly focus on a full stack app "Tasks and Treats", build with react native, next.js, node.js and postgreSQL. It's an get-things-done tool that's fun to use :)
+
+I feel honored, if you want to check it out:
+
+[Frontend](https://github.com/bdefner/tasks-and-treats-react-native-project)
+[Backend](https://github.com/bdefner/tasks-and-treats-backend)
+
 #### Languages and tools
 
 <img align="left" alt="git" height="30" src="/icons/react.png" style="margin:10px"/>
@@ -20,6 +27,16 @@ I'm currently attending the Upleveled full stack web development bootcamp in Vie
 <img align="left" alt="git" height="30" src="/icons/figma.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/affinity.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/slack.png" style="margin:10px"/>
+
+#### Currently learning
+
+These days, I mainly enjoy improving my react native skills and building full stack mobile apps.
+
+#### Say hello :)
+
+Let's get in touch!
+
+hallo@deona.at
 
 <!--
 **bdefner/bdefner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
