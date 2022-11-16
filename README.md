@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Beppino
+
 I'm currently attending the Upleveled full stack web development bootcamp in Vienna
 
 #### Current project
 
 #### Languages and tools
 
-`r fa_rocket(colour = "#1FA67A")` + `r fa_r_project(colour = "#384CB7")` = `r fa_heart(colour = "red")`
-
+<img align="left" alt="git" height="35" src="/icons/git.png" />
 
 <!--
 **bdefner/bdefner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
