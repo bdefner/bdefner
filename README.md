@@ -2,7 +2,7 @@
 
 I'm a Web- & App- Developer based in Austria, with a focus on front-end and an understanding for the full stack.
 
-Here's a [ 1 minute intoduction video of myself](https://www.dropbox.com/s/vkxsfa9ggi25ue2/Beppinos%20Pitch.mp4?dl=0)
+If you are interested, here's a [ 1 minute intoduction video of myself 📹](https://www.dropbox.com/s/vkxsfa9ggi25ue2/Beppinos%20Pitch.mp4?dl=0) 
 
 #### Current projects
 
