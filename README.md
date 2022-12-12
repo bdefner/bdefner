@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Beppino
 
-I'm currently attending the Upleveled full stack web development bootcamp in Vienna
+I'm a Web- & App- Developer based in Austria, with a focus on front-end and an understanding for the full stack.
 
-#### Current project
+#### Current projects
 
-Currently, I mainly focus on a full stack app "Tasks and Treats", build with react native, next.js, node.js and postgreSQL. It's an get-things-done tool that's fun to use :)
+Currently, I am developing an easy to use Analytical Hierarchy Process (AHP) app: A structured technique for organizing and analyzing complex decisions, based on mathematics and psychology. The app is created with react, next.js and postgreSQL and is planned to be available as an alpha-release by the end of the month. If you are interested, you can see the current status here: [Easy Decide](https://github.com/bdefner/easy-decision)
 
-I feel honored, if you want to check it out: [Frontend](https://github.com/bdefner/tasks-and-treats-react-native-project) | [Backend](https://github.com/bdefner/tasks-and-treats-backend)
+Besides that, I am working on a full stack app "Tasks and Treats", build with react native, next.js, node.js and postgreSQL. It's an get-things-done tool that's fun to use :) I feel honored, if you want to check it out: [Frontend](https://github.com/bdefner/tasks-and-treats-react-native-project) | [Backend](https://github.com/bdefner/tasks-and-treats-backend)
 
 #### Languages and tools
 
@@ -32,7 +32,7 @@ I feel honored, if you want to check it out: [Frontend](https://github.com/bdefn
 
 #### Currently learning
 
-These days, I mainly enjoy improving my react native skills and building full stack mobile apps.
+These days, I mainly enjoy improving my react and react native skills and building full stack mobile apps.
 
 #### Let's get in touch :)
 
