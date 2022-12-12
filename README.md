@@ -2,6 +2,8 @@
 
 I'm a Web- & App- Developer based in Austria, with a focus on front-end and an understanding for the full stack.
 
+Here's a [ 1 minute intoduction video of myself](https://www.dropbox.com/s/vkxsfa9ggi25ue2/Beppinos%20Pitch.mp4?dl=0)
+
 #### Current projects
 
 Currently, I am developing an easy to use Analytical Hierarchy Process (AHP) app: A structured technique for organizing and analyzing complex decisions, based on mathematics and psychology. The app is created with react, next.js and postgreSQL and is planned to be available as an alpha-release by the end of the month. If you are interested, you can see the current status here: [Easy Decide](https://github.com/bdefner/easy-decision)
