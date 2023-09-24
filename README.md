@@ -13,6 +13,8 @@ Or, you can watch a [3 minutes video introduction](https://www.dropbox.com/s/g0i
 
 #### Languages and tools
 
+<img align="left" alt="git" height="30" src="/icons/vue.png" style="margin:10px"/>
+<img align="left" alt="git" height="30" src="/icons/react.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/react.png" style="margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/nextjs.png" style="float:left; margin:10px"/>
 <img align="left" alt="git" height="30" src="/icons/nodejs.png" style="margin:10px"/>
