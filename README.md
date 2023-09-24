@@ -6,7 +6,7 @@ If you are interested, here's a [ 1 minute intoduction video of myself 📹](htt
 
 #### Current projects
 
-Currently, I am developing an easy to use Analytical Hierarchy Process (AHP) app: A structured technique for organizing and analyzing complex decisions, based on mathematics and psychology. The app is created with react, next.js and postgreSQL and is planned to be available as an alpha-release by the end of the month. If you are interested, you can see the current status here: [Easy Decide](https://github.com/bdefner/easy-decision)
+Currently, I am developing an easy to use Analytical Hierarchy Process (AHP) app: A structured technique for organizing and analyzing complex decisions, based on mathematics and psychology. The app is created with react, next.js and postgreSQL and is planned to be available as an alpha-release by the end of this year. If you are interested, you can see the current status here: [Easy Decide](https://github.com/bdefner/easy-decision)
 
 Besides that, I am working on a full stack app "Tasks and Treats", build with react native, next.js, node.js and postgreSQL. It's an get-things-done tool that's fun to use :) I feel honored, if you want to check it out: [Frontend](https://github.com/bdefner/tasks-and-treats-react-native-project) | [Backend](https://github.com/bdefner/tasks-and-treats-backend)
 Or, you can watch a [3 minutes video introduction](https://www.dropbox.com/s/g0i9t5yneova36m/tasks%20and%20treats%20project%20.mp4?dl=0)
